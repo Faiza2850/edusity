@@ -13,6 +13,7 @@ export const Navbar = () => {
             <li>About Us</li>
             <li>Testimonials</li>
             <li>Campus</li>
+            <li><button className='btn'>Contact Us</button></li>
         </ul>
     </nav>
     </>
